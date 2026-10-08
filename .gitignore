@@ -1,0 +1,17 @@
+# Compiled Object files
+*.o
+
+# Executables
+ls
+ls.exe
+my_ls
+my_ls.exe
+*.out
+
+# System / Editor files
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+*.stackdump
